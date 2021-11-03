@@ -10,4 +10,4 @@ some text 2
 ## local dev
 
 1. open index.html in browser.
-2. have fun
+2. have fun 2
